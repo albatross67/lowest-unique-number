@@ -1,0 +1,33 @@
+{
+  "competition_date": "2026-10-28",
+  "accepted_entries": 15,
+  "entry_cap": 50,
+  "cap_fill_fraction": 0.3,
+  "number_min": 1,
+  "number_max": 100,
+  "prize_tokens": 300,
+  "winner": "Lupo",
+  "winner_entry_id": "LUN006",
+  "winning_number": 2,
+  "prize_payment_verified": false,
+  "occupied_numbers": 12,
+  "unselected_numbers": 88,
+  "unique_numbers": 10,
+  "unique_entries": 10,
+  "colliding_numbers": 2,
+  "colliding_entries": 5,
+  "mean_choice": 10.133333333333333,
+  "median_choice": 8,
+  "min_choice": 2,
+  "max_choice": 26,
+  "entries_1_to_3": 1,
+  "entries_1_to_10": 9,
+  "entries_5_to_12": 9,
+  "entries_above_20": 2,
+  "self_reported_alignment": {
+    "no": 2,
+    "yes": 11,
+    "partly": 2
+  },
+  "exact_timestamps_available": false
+}

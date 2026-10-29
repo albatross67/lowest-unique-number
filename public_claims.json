@@ -1,0 +1,179 @@
+[
+  {
+    "claim_id": "C01",
+    "name": "Ofice",
+    "public_excerpt": "The lowest unique lands in 5-12",
+    "metric": "winning_range",
+    "test": "Winner in 5–12",
+    "qualification": "",
+    "low": 5,
+    "high": 12
+  },
+  {
+    "claim_id": "C02",
+    "name": "Gabby",
+    "public_excerpt": "1 gets 5+ picks",
+    "metric": "count_range",
+    "test": "At least 5 entries at 1",
+    "qualification": "",
+    "low": 5,
+    "high": 50,
+    "number": 1
+  },
+  {
+    "claim_id": "C03",
+    "name": "Gabby",
+    "public_excerpt": "enough of them to duplicate both",
+    "metric": "count_range",
+    "test": "At least 2 entries at 2",
+    "qualification": "",
+    "low": 2,
+    "high": 50,
+    "number": 2
+  },
+  {
+    "claim_id": "C04",
+    "name": "Gabby",
+    "public_excerpt": "enough of them to duplicate both",
+    "metric": "count_range",
+    "test": "At least 2 entries at 3",
+    "qualification": "",
+    "low": 2,
+    "high": 50,
+    "number": 3
+  },
+  {
+    "claim_id": "C05",
+    "name": "Gabby",
+    "public_excerpt": "the lowest unique sits under 7",
+    "metric": "winning_range",
+    "test": "Winner in 1–6",
+    "qualification": "",
+    "low": 1,
+    "high": 6
+  },
+  {
+    "claim_id": "C06",
+    "name": "Nico",
+    "public_excerpt": "nobody goes above 60",
+    "metric": "max_choice",
+    "test": "All choices ≤60",
+    "qualification": "",
+    "high": 60
+  },
+  {
+    "claim_id": "C07",
+    "name": "Nico",
+    "public_excerpt": "1 gets split three ways",
+    "metric": "count_range",
+    "test": "Exactly 3 entries at 1",
+    "qualification": "",
+    "low": 3,
+    "high": 3,
+    "number": 1
+  },
+  {
+    "claim_id": "C08",
+    "name": "Bucket Man",
+    "public_excerpt": "1 collides hard, 2 and 3 collide too",
+    "metric": "count_range",
+    "test": "At least 2 entries at 1",
+    "qualification": "",
+    "low": 2,
+    "high": 50,
+    "number": 1
+  },
+  {
+    "claim_id": "C09",
+    "name": "Bucket Man",
+    "public_excerpt": "1 collides hard, 2 and 3 collide too",
+    "metric": "count_range",
+    "test": "At least 2 entries at 2",
+    "qualification": "",
+    "low": 2,
+    "high": 50,
+    "number": 2
+  },
+  {
+    "claim_id": "C10",
+    "name": "Bucket Man",
+    "public_excerpt": "1 collides hard, 2 and 3 collide too",
+    "metric": "count_range",
+    "test": "At least 2 entries at 3",
+    "qualification": "",
+    "low": 2,
+    "high": 50,
+    "number": 3
+  },
+  {
+    "claim_id": "C11",
+    "name": "Bucket Man",
+    "public_excerpt": "the winner is a single digit",
+    "metric": "winning_range",
+    "test": "Winner in 1–9",
+    "qualification": "",
+    "low": 1,
+    "high": 9
+  },
+  {
+    "claim_id": "C12",
+    "name": "Blacky",
+    "public_excerpt": "1 sits empty and wins nothing",
+    "metric": "count_range",
+    "test": "Zero entries at 1",
+    "qualification": "",
+    "low": 0,
+    "high": 0,
+    "number": 1
+  },
+  {
+    "claim_id": "C13",
+    "name": "Blacky",
+    "public_excerpt": "Mine isn't 1",
+    "metric": "chosen_range",
+    "test": "Own choice is not 1",
+    "qualification": "",
+    "low": 2,
+    "high": 100
+  },
+  {
+    "claim_id": "C14",
+    "name": "Aria",
+    "public_excerpt": "the winner is above 20",
+    "metric": "winning_range",
+    "test": "Winner in 21–100",
+    "qualification": "",
+    "low": 21,
+    "high": 100
+  },
+  {
+    "claim_id": "C15",
+    "name": "Alex",
+    "public_excerpt": "the lowest unique lands at 4-6",
+    "metric": "winning_range",
+    "test": "Winner in 4–6",
+    "qualification": "",
+    "low": 4,
+    "high": 6
+  },
+  {
+    "claim_id": "C16",
+    "name": "Adame",
+    "public_excerpt": "the winner is a single digit ... and it is not 1",
+    "metric": "winning_range",
+    "test": "Winner in 2–9",
+    "qualification": "",
+    "low": 2,
+    "high": 9
+  },
+  {
+    "claim_id": "C17",
+    "name": "Cosmo",
+    "public_excerpt": "the winner is a single digit, 7 to 11",
+    "metric": "winning_range",
+    "test": "Winner in 7–9 (literal intersection)",
+    "qualification": "Using 7–11 instead also excludes 2.",
+    "low": 7,
+    "high": 9
+  }
+]

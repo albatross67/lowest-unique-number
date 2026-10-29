@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "checks": [
+    "15 unique entrant names; integer choices in 1\u2013100",
+    "choices reconcile with independent organizer result list and all 15 DM number declarations",
+    "winner reconciles via frequency table and direct entrant scan",
+    "all 100 number counts sum to 15",
+    "public numerical claims mechanically checked from explicit predicates",
+    "all 15 entrant pages generated"
+  ],
+  "source_sha256": "6364e519153fbe72422d9943c88981a57eb71fe8566cf59104f4913f336cffb4"
+}
